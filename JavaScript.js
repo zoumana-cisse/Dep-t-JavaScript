@@ -1,3 +1,5 @@
+//Mon petit c'est ton président
+//Le devoir t'as bien bossé 
 /*//Calcule de la somme de deux nombres entiers
 a = Number (prompt("Entrer le premier nombre : "))
 b = Number (prompt("Entrer le deuxieme nombre : "))
